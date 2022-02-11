@@ -20,13 +20,13 @@
   <extension point="xbmc.addon.metadata">
     <summary>SUA CONTRIBUIÇÃO INCENTIVA NOSSO TRABALHO</summary>
     <description lang="en">ACESSO DE CONTRIBUINTE 
-EXCLUSIVO DO MILTON - 15-03-22 - AGRADECEMOS SUA CONTRIBUIÇÃO.
+EXCLUSIVO DO MILTON - 10-02-22 - AGRADECEMOS SUA CONTRIBUIÇÃO.
 NOSSOS CONTATOS : 
 luminartstudio4@gmail.com  OU  WhatsApp (48) 99194-1409  </description>
     <disclaimer lang="en">O LUMINART STUDIO É APENAS UM INDEXADOR DE LINKS COLETADOS NA WEB E ORGANIZADOS PARA USO RECREATIVO,SEM FINS COMERCIAIS 
 NÃO ARMAZENAMOS ARQUIVOS, OU SOMOS RESPONSÁVEIS PELOS LINKS UTILIZADOS.</disclaimer>
 	<news>
-ACESSO DE CONTRIBUINTE EXCLUSIVO DO MILTON - 15-03-22</news>
+ACESSO DE CONTRIBUINTE EXCLUSIVO DO MILTON - 10-02-22</news>
     <platform>all</platform>
 <assets>
        <icon>icon.png</icon>
@@ -53,7 +53,7 @@ ACESSO DE CONTRIBUINTE EXCLUSIVO DO MILTON - 15-03-22</news>
 <extension point="xbmc.addon.metadata">
 	 <summary lang="en">SUA CONTRIBUIÇÃO INCENTIVA NOSSO TRABALHO</summary>
     <description lang="en">ACESSO DE CONTRIBUINTE 
-EXCLUSIVO DO MILTON - 15-03-22 - AGRADECEMOS SUA CONTRIBUIÇÃO.
+EXCLUSIVO D0 MILTON - 10-02-21 - AGRADECEMOS SUA CONTRIBUIÇÃO.
 NOSSOS CONTATOS : 
 luminartstudio4@gmail.com  OU  WhatsApp (48) 99194-1409 </description>
     <disclaimer lang="en">O LUMINART STUDIO É APENAS UM INDEXADOR DE LINKS COLETADOS NA WEB E ORGANIZADOS PARA USO RECREATIVO,SEM FINS COMERCIAIS 
@@ -66,7 +66,7 @@ NÃO ARMAZENAMOS ARQUIVOS, OU SOMOS RESPONSÁVEIS PELOS LINKS UTILIZADOS.</discl
 <screenshot>resources/screenshots/movies.jpg</screenshot>
 <screenshot>resources/screenshots/series.jpg</screenshot>
 </assets>
-	<news>ACESSO DE CONTRIBUINTE EXCLUSIVO DO MILTON - 15-03-22</news>
+	<news>ACESSO DE CONTRIBUINTE EXCLUSIVO D0 MILTON - 10-02-21</news>
 </extension>
 </addon>
 </addons>
