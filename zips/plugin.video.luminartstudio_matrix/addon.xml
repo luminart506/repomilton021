@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.luminartstudio_matrix" name="[COLOR orange][B]LUMINART STUDIO[/B][/COLOR]" version="3.5.21+matrix.C" provider-name="[COLOR white][B]JOHN DOE[/B][/COLOR]"> 
+<addon id="plugin.video.luminartstudio_matrix" 
+       name="[COLOR orange][B]LUMINART MATRIX[/B][/COLOR]" 
+	   version="0.2.1" 
+	   provider-name="[COLOR white][B]JOHN DOE[/B][/COLOR]"> 
 <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests"/>
@@ -11,8 +14,9 @@
 </extension>   
 <extension point="xbmc.addon.metadata">
 	 <summary lang="en">SUA CONTRIBUIÇÃO INCENTIVA NOSSO TRABALHO</summary>
-    <description lang="en">ACESSO ESPECIAL DE CONTRIBUINTE 
-EXCLUSIVO DO MILTON - AGRADECEMOS SUA CONTRIBUIÇÃO.
+    <description lang="en">ACESSO EXCLUSIVO DE CONTRIBUINTE  
+USUÁRIO - MILTON-021.006  - ENTRADA EM - 10-09-21 
+AGRADECEMOS SUA CONTRIBUIÇÃO.
 NOSSOS CONTATOS : 
 luminartstudio4@gmail.com  OU  WhatsApp (48) 99194-1409 </description>
     <disclaimer lang="en">O LUMINART STUDIO É APENAS UM INDEXADOR DE LINKS COLETADOS NA WEB E ORGANIZADOS PARA USO RECREATIVO,SEM FINS COMERCIAIS 
@@ -21,11 +25,10 @@ NÃO ARMAZENAMOS ARQUIVOS, OU SOMOS RESPONSÁVEIS PELOS LINKS UTILIZADOS.</discl
 	<assets>
        <icon>icon.png</icon>
        <fanart>fanart.jpg</fanart>
-<screenshot>resources/screenshots/home.png</screenshot>
-<screenshot>resources/screenshots/movies.png</screenshot>
-<screenshot>resources/screenshots/series.png</screenshot>
+<screenshot>resources/screenshots/home.jpg</screenshot>
+<screenshot>resources/screenshots/movies.jpg</screenshot>
+<screenshot>resources/screenshots/series.jpg</screenshot>
 </assets>
-	<news>PLUGIN COMPATÍVEL COM O KODI 19 MATRIX
-PERFEITAMENTE OPERACIONAL</news>
+	<news>USUÁRIO - MILTON-021.006  - ENTRADA EM - 10-09-21</news>
 </extension>
 </addon>
